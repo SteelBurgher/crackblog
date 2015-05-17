@@ -1,0 +1,12 @@
+{
+  "main": "index.html",
+  "name": "crack-blog",
+  "window":
+    {
+      "toolbar": true,
+      "frame"  : false,
+      "min_width": 400,
+      "min_height": 250,
+      "show": true
+    }
+}
